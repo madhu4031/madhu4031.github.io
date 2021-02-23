@@ -29,7 +29,7 @@ MultiSkill Trainer
 ```
 ## Skills
 > Embedded Systems -90%
-> 
+
 > Google Productivity Tools -95%
 ## Certifications
 - **Python For EveryBody Specilization**
