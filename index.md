@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to Madevi's Website
 
-You can use the [editor on GitHub](https://github.com/madhu4031/madhu4031.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- You can use the [editor on GitHub](https://github.com/madhu4031/madhu4031.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files.
+- I'm working as a Trianer in APSSDC from past 4 years.I'm very much enthusiastic and passsionate to learn and upskill myself.I'm very passoniate to deliver the knowledge which I have.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+Name: MD Madevi
+Date of birth: 18,March,1994
+Address:Kurnool,India
+        Zip code:
+        518004
+Email: madevi.m@apssdc.in
+Phone: 9848916931
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
+- MTech in ECE
+  - Indira Institute of Technology
+  - 2015-2017
+- BTech in ECE
+  - Indira Institute of Technology
+  -  2011 - 2015
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Experience
 ```
+MultiSkill Trainer
+2019 - till now
+```
+## Skills
+> Embedded Systems -90%
+> Google Productivity Tools -95%
+## Certifications
+- **Python For EveryBody Specilization**
+  - Certified by Michigan University,offered by Coursera
+ - **Applied Data Science with Python Specilization**
+  - Certified by Michigan University,offered by Coursera
+## Contact Me
+**Cell: 9848916931
+[Link](https://mail.google.com/mail/u/2/#inbox) 
+[link2](https://github.com/madhu4031)
+![Image]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madhu4031/madhu4031.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
