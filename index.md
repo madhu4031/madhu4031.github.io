@@ -1,4 +1,5 @@
 ## Welcome to Madevi's Website
+![Image](https://github.com/madhu4031/madhu4031.github.io/blob/main/photo.jpg)
 
 - You can use the [editor on GitHub](https://github.com/madhu4031/madhu4031.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files.
 - I'm working as a Trianer in APSSDC from past 4 years.I'm very much enthusiastic and passsionate to learn and upskill myself.I'm very passoniate to deliver the knowledge which I have.
@@ -38,6 +39,5 @@ MultiSkill Trainer
 **Cell: 9848916931
 [Link](https://mail.google.com/mail/u/2/#inbox) 
 [link2](https://github.com/madhu4031)
-![Image](https://github.com/madhu4031/madhu4031.github.io/blob/main/photo.jpg)
 # Thanking You
 
